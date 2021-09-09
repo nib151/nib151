@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nib151
 - 👀 I’m interested in learn programming languages
-- 🌱 I’m currently learning ph and python
+- 🌱 I’m currently learning PhP and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
